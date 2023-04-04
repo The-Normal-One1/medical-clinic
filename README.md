@@ -17,9 +17,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Vet Clinic] <a name="about-project"></a>
+# 📖 [Medical Clinic] <a name="about-project"></a>
 
-**[]** is a project containing data and information about animals in a vet clinic and how to query those information.
+**[Medical clinic]** is a project containing data and information about patients in a clinic and how to query those information.
 
 ### Schema Diagram <a name="schema-diagram"></a>
 
@@ -71,6 +71,12 @@ git clone git@github.com:Ezzywealth/vetclinic.git
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
+
+👤 **Ermiyas Demsew**
+
+- GitHub: [@The-Normal-One1](https://github.com/The-Normal-One1)
+- Twitter: [@DemsewErmiyas](https://twitter.com/DemsewErmiyas)
+- LinkedIn: [@Ermiyas Demsew](https://www.linkedin.com/in/ermiyas-demsew-616b1b19a/)
 
 👤 **Ezekiel Udiomuno**
 
